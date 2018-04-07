@@ -10,9 +10,8 @@
     
 ### The event_form_testing.py project
 Testing a web form created by me at http://www.123contactform.com/form-3079673/Event-Form
-
-Testing environment: Mozilla Firefox 55.0.3 (32-bits)
 ----
+Testing environment: Mozilla Firefox 55.0.3 (32-bits)
 Used:
 Python 3.6 with the unittest testing framework
 Selenium Webdriver
